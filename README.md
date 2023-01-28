@@ -2,20 +2,34 @@
 
 *Conteudos da Unidade Curricular de Sistemas Operativos do curso de ***Engenharia Informática 3º ano*** do IADE/Universidade Europeia*
 
-(from FUC)
+A unidade curricular de Sistemas Operativos pretende dotar os alunos dos princípios básicos e semiavançados sobre os principais conceitos da gestão de recursos realizada a nível de um sistema operativo.
+A evolução tecnológica e a cada vez maior quantidade e diversidade de equipamentos existentes que necessitam de sistemas operativos para a sua correta e produtiva utilização (além de desktops/servidores, também mobile, IoT, etc) é o enquadramento principal para a diversidade de sistemas apresentados em case studies e em diversas análises realizadas em sala de aula.
 
+Além da perspetiva histórica sobre a evolução das gerações dos sistemas, o conteúdo técnico baseia-se na descrição das componentes de sistemas operativos, sobretudo no que diz respeito a gestão de processos, threads, memória e I/O.
+Dá-se especial relevância aos conceitos associados à gestão de processos em ambientes multiprogramados e multiutilizador, com especial atenção às evoluções tecnológicas que os processadores introduziram nos últimos anos e permitiram uma evolução na gestão de processos nos Sistemas Operativos.
+Todas os conteúdos são também enquadrados nos novos conceitos de utilização de sistemas operativos mobile e em sistemas embebidos e até em sistemas tem tempo-real por forma a cobrir um leque variado de aplicações dos sistemas operativos.
 
 TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas fora do ambiente de aula***
 
 ### Horário 
 | Dia | Hora | Turma |
 | :-----------: | :-----------: | :----------: |
-| ??? | ??? - ??? | T1 |
-| ??? | ??? - ??? | T2 |
+| quarta-feira | 08:00 - 10:40 | T1 |
 
 ## Programa
 ### Aulas Teóricas
--	
+-	Revisões
+- Sistemas Operativos
+- Conceitos de Sistemas Operativos
+- Os sistemas operativos como fornecedores de serviços
+- Virtualização e Cloud
+- Processos e Threads
+- Comunicação Inter-Processos 
+- UNIX Operating System
+- Programação em Shell Bash 
+- Gestão de Memória
+- Gestão de Periféricos
+- Criptografia, segurança e AAA
 
 *Slides com conteudos disponiveis no Canvas*
 
