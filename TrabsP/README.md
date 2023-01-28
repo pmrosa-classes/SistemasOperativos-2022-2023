@@ -9,10 +9,11 @@ Os temas abrangem um leque variado de objetivos e fica em aberto a proposta de a
 
 ## Multi-threading Application (ex. simple web server - Linux or Windows)
 
+Os alunos devem propor a implementação de uma aplicação (preferencialmente em Linguagem C ou C++) em que seja justificadamente necessário multi-threading (ex. aplicaçõa multiutilizados; webserver; ...)
 
 ## Linux Cluster with 3 or more Applications
 
-Os alunos devem procurar uma solução onde Clustering em Linux, justificar a sua escolha e implementar o minimo de três aplicações que corram **imaculadamente** em Cluster.
+Os alunos devem procurar uma solução onde Clustering em Linux, justificar a sua escolha (através de relatório preliminar que analise várias soluções de Clustering e justifique a escolha). Devem implementar o minimo de três aplicações que corram **perfeitamente** em Cluster.
 
 ## Container-based dynamic Web Server configuration with one Application
 
@@ -23,5 +24,5 @@ Configuração dinâmica de webservers, utilizando Containers, para responder a 
 
 ## Linux Operating System Utilities (ls, mkdir, cat, etc)
 
-
+Desenvolvimento de vários utilitários (estilo GNU) para sistema operativo Linux. Desenvolvimento em Linguagem C.
 
