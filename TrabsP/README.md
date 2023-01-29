@@ -3,9 +3,15 @@
 
 Os trabalhos práticos pretendem dotar os alunos de conhecimentos práticos, no contexto da unidade curricular mas não necessariamente falados nas aulas.
 
-Todos os trabalhos devem estar organizados num repositório Github (publico no final do projeto) com toda a documentação associada: o que faz, para que serve, como se pode compilar, como se pode colocar a trabalhar, etc. No final o Docente ou alguma outra pessoa da área deve conseguir utilizar a ferramenta realizada pelos alunos de forma autónoma.
+São propostos alguns temas de trabalhos. Os temas abrangem um leque variado de objetivos e fica em aberto a proposta de alunos a projetos integrados num PBL, desde que se justifique a componente da Unidade Currilar de Sistemas Operativos.
 
-Os temas abrangem um leque variado de objetivos e fica em aberto a proposta de alunos a projetos integrados num PBL de outras cadeiras, desde que se justifique a componente da Unidade Currilar de Sistemas Operativos.
+A primeira entrega será uma proposta descritiva do que se pretende realizar (ver calendarização para data de entrega). Essa proposta poderá sofrer alterações posteriromente desde que com a concordância do Docente. O template para a Proposta está disponível na página de ---->>>>>Documentação do Projeto
+
+Todos os trabalhos terão que abordar a temática de Sistemas Operativos em conjunto com outros assuntos estudados, nesta ou outras cadeiras.
+
+Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem que entenderem. Podem também usar instaçações locais ou recursos na Cloud (desde que os consigam parametrizar). Nas aulas não haverá suporte direto a essas componente, apenas aos conceitos envolvidos.
+
+Todos os trabalhos devem estar organizados num repositório Github (publico no final do projeto) com toda a documentação associada: o que faz, para que serve, como se pode compilar, como se pode colocar a trabalhar, etc. No final o Docente ou alguma outra pessoa da área deve conseguir utilizar a ferramenta realizada pelos alunos de forma autónoma.
 
 ## Multi-threading Application (ex. simple web server - Linux or Windows)
 
@@ -25,4 +31,8 @@ Configuração dinâmica de webservers, utilizando Containers, para responder a 
 ## Linux Operating System Utilities (ls, mkdir, cat, etc)
 
 Desenvolvimento de vários utilitários (estilo GNU) para sistema operativo Linux. Desenvolvimento em Linguagem C.
+
+## outro trabalho a propor
+
+Os alunos podem propor outros temas, inclusivamente se de acordo com um PBL a efetuar no semestre, desde que se justifique a integração da unidade curricular. Só será avaliada essa compoenente nesta cadeira. A maior liberdade dada aos alunos através de um tema a propôr também dá mais responsabilidade para com as decisões que vão tomando (preferencialmente de acordo com o Docente sendo que para essa interação poderã utilizar as aulas de apoio).
 
