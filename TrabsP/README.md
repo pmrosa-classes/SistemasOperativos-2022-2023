@@ -15,25 +15,29 @@ Todos os trabalhos devem estar organizados num repositório Github (publico no f
 
 ## 1. Multi-threading Application (ex. simple web server - Linux or Windows)
 
-Os alunos devem propor a implementação de uma aplicação (preferencialmente, mas não obrigatoriamente, em Linguagem C ou C++) em que seja justificadamente necessário multi-threading (ex. aplicaçõa multiutilizados; webserver; ...)
+Os alunos devem propor a implementação de uma aplicação (preferencialmente, mas não obrigatoriamente, em Linguagem C ou C++) em que seja justificadamente necessário multi-threading (ex. aplicação multiutilizador; webserver; ...)
 
 ## 2. Linux Cluster with 3 or more Applications
 
-Os alunos devem procurar uma solução onde Clustering em Linux, justificar a sua escolha (através de relatório preliminar que analise várias soluções de Clustering e justifique a escolha). Devem implementar o minimo de três aplicações que corram **perfeitamente** em Cluster.
+Os alunos devem procurar uma solução de Clustering em Linux e justificar a sua escolha (através de relatório preliminar que analise várias soluções de Clustering e justifique a escolha). Devem implementar o minimo de três aplicações que corram **perfeitamente** em Cluster.
 
-Inclui entrega entraga de relatorio preliminar ate a setima semana.
+Inclui entrega entraga de relatorio preliminar até à sétima semana.
 
 ## 3. Container-based dynamic Web Server configuration with one Application
 
-Configuração dinâmica de webservers, utilizando Containers, para responder a diferentes números de clientes (lançar novos webservers; parar webservers já não necessários; com base em várias situações a analisar).
+Configuração dinâmica de webservers, utilizando Containers, para responder a diferentes números de clientes (lançar novos webservers; parar webservers já não necessários; com base em várias situações a analisar). Deve incluir load balancers devidamente monitorizados (através de uma página de web). A visibilidade do funcionamento de toda a solução é elemento fundamental para a avaliação.
 
-## 4. Monitoring Server (Linux-based) - ex. Nagius.
+## 4. Monitoring Platform (Linux-based) - ex. Nagius.
 
 Parametrização de uma plataforma de monitorização de sistemas, redes e aplicações (ver Nagius). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
 
+## 4. SIEM Platform (Linux-based) - ex. Wazuh.
+
+Parametrização de uma plataforma SIEM para obtenção de logs de sistemas e que devolva informações relevantes para a segurança e monitorização dos sistemas, redes e aplicações (ver Wazuh). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
+
 ## 5. Linux Operating System Utilities (ls, mkdir, cat, etc)
 
-Desenvolvimento de vários utilitários (estilo GNU) para sistema operativo Linux. Desenvolvimento em Linguagem C.
+Desenvolvimento de vários utilitários (estilo GNU - https://www.gnu.org/software/coreutils/) para sistema operativo Linux. Identificar utilitários na proposta inicial. Desenvolvimento em Linguagem C.
 
 ## 6. outro trabalho a propor
 
