@@ -114,17 +114,17 @@ Deverá ser util juntarem-se ao Discord da cadeira: https://discord.gg/WTbk3rv5 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo e deve ser preenchida a tarefa respetiva no Canvas até dia 10 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
+Os trabalhos práticos são em grupo e deve ser preenchida a [Tarefa respetiva no Canvas](https://mycampus.pt/courses/13259/assignments/23347) até dia 10 de fevereiro: .
 
 A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5IkbX7hD-sH7FNtrroaFW5ESvG-NB5-Ll5ZGwL8q8_VWIVHDH9uhlEcvbG5ygSneEJVHSCCTJaE_X/pubhtml?gid=592821258&single=true) 
 
 ## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
-- até 10 de fevereiro - Constituição dos grupos neste [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23225)
-- até 10 de fevereiro - Entrega da Proposta dos Trabalhos Práticos nesta [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
+- até 10 de fevereiro - Constituição dos grupos neste [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23347)
+- até 10 de fevereiro - Entrega da Proposta dos Trabalhos Práticos nesta [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23348)
 - semana de 13 de fevereiro - Apresentação à turma das propostas dos Trabalhos Práticos.
 - até à semana de 13 de março para apresentação de segunda proposta (corrigida) ou de relatórios intermédios, nos trabalhos onde tal é solicitado.
-- até 19 de maio - Entrega do trabalho prático nesta [Tarefa no Canvas]
+- até 19 de maio - Entrega do trabalho prático nesta [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23349)
 - Semana de 14 de maio - Teste Escrito 
 - semana de 22 e 26 de maio - Apresentações dos Trabalhos Práticos
 
