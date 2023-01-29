@@ -120,7 +120,7 @@ A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/
 
 ## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
-- até 10 de fevereiro - Constituição dos grupos neste [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23347)
+- até 10 de fevereiro - Constituição dos grupos nesta [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23347)
 - até 10 de fevereiro - Entrega da Proposta dos Trabalhos Práticos nesta [Tarefa no Canvas](https://mycampus.pt/courses/13259/assignments/23348)
 - semana de 13 de fevereiro - Apresentação à turma das propostas dos Trabalhos Práticos.
 - até à semana de 13 de março para apresentação de segunda proposta (corrigida) ou de relatórios intermédios, nos trabalhos onde tal é solicitado.
