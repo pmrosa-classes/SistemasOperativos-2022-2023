@@ -18,18 +18,15 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 
 ## Programa
 ### Aulas Teóricas
--	Revisões
-- Sistemas Operativos
-- Conceitos de Sistemas Operativos
-- Os sistemas operativos como fornecedores de serviços
+-	Objetivos de Sistemas Operativos / Evolução histórica
+- Sistemas operativos como fornecedores de serviços
 - Virtualização e Cloud
-- Processos e Threads
-- Comunicação Inter-Processos 
-- UNIX Operating System
-- Programação em Shell Bash 
-- Gestão de Memória
-- Gestão de Periféricos
-- Criptografia, segurança e AAA
+- Os modelos de computação baseados em Processos e baseados em Processos Ligeiros (Threads)
+- Programação concorrente
+- Secção crítica. Race conditions. Semáforos. Mutexes. Deadlocks.
+- Gestão de memória. Memória virtual.
+- Input / Output.
+- Núcleos e Micro-Núcleos.
 
 *Slides com conteudos disponiveis no Canvas*
 
@@ -39,22 +36,22 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 ### Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)
 | Aula | Semana | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 30 jan | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
-| 02 | 06 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***  |
-| 03 | 13 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
-| 04 | 20 fev | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4; |
-| 05 | 27 fev | TCP/IP endereçamento IPv4 ; ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
-| 06 | 06 mar | TCP/IP endereçamento IPv4 (inclui subnetting); |
-| 07 | 13 mar | TCP/IP endereçamento IPv4 (inclui subnetting); ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
+| 01 | 30 jan | Apresentação da Unidade Curricular (coonteudos e avaliação); Objetivos de Sistemas Operativos / Evolução histórica  |
+| 02 | 06 fev | Sistemas operativos como fornecedores de serviços. Virtualização e Cloud  |
+| 03 | 13 fev | Virtualização e Cloud. ***Apresentação das Propostas de Trabalhos*** |
+| 04 | 20 fev | Os modelos de computação baseados em Processos e baseados em Processos Ligeiros (Threads) |
+| 05 | 27 fev | Os modelos de computação baseados em Processos e baseados em Processos Ligeiros (Threads); ***Suporte aos Trabalhos de Grupo*** |
+| 06 | 06 mar | Programação concorrente |
+| 07 | 13 mar | Programação concorrente; ***Suporte aos Trabalhos de Grupo*** |
 | 08 | 20 mar | ***Semana sem aulas*** |
-| 0 | 27 mar | Inicio do estudo de alguns Protocolos TCP/IP; **Entrega do trabalho Routing-I**  |
+| 0 | 27 mar | Secção crítica. Race conditions. Semáforos. Mutexes. Deadlocks. |
 |   | 03 abr | **Páscoa**|
-| 09 | 10 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; **Apresentação do trabalho Routing-I** |
-| 10 | 17 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***; **Entrega do trabalho Routing-II** |
-| 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5; **Apresentação do trabalho Routing-II** |
-| 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***; **Entrega Trabalho Captura de pacotes com Wireshark/tcpdump** | 
-| 13 | 08 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível); **Apresentação do Trabalho Captura de pacotes com Wireshark/tcpdump** |
-| 14 | 15 mai | **Teste Escrito** ; **Entrega do Trabalho Final** |
+| 09 | 10 abr | Gestão de memória. Memória virtual; ***Suporte aos Trabalhos de Grupo***  |
+| 10 | 17 abr | Input / Output; ***Suporte aos Trabalhos de Grupo***  |
+| 11 | 24 abr | Núcleos e Micro-Núcleos; ***Suporte aos Trabalhos de Grupo*** |
+| 12 | 01 mai | ***Aula de Suporte aos Trabalhos de Grupo*** | 
+| 13 | 08 mai | **Aula de Suporte aos Trabalhos de Grupo** |
+| 14 | 15 mai | **Teste Escrito**; **Entrega do Trabalho Final** |
 | 15 | 22 mai | **Apresentações dos Trabalhos Práticos** |
 
 ### Sumários
