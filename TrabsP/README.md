@@ -5,7 +5,7 @@ Os trabalhos práticos pretendem dotar os alunos de conhecimentos práticos, no 
 
 São propostos alguns temas de trabalhos. Os temas abrangem um leque variado de objetivos e fica em aberto a proposta de alunos a projetos integrados num PBL, desde que se justifique a componente da Unidade Currilar de Sistemas Operativos.
 
-A primeira entrega será uma proposta descritiva do que se pretende realizar (ver calendarização para data de entrega). Essa proposta poderá sofrer alterações posteriromente desde que com a concordância do Docente. O template para a Proposta está disponível na página de ---->>>>>Documentação do Projeto
+A primeira entrega será uma proposta descritiva do que se pretende realizar (ver calendarização para data de entrega). Essa proposta poderá sofrer alterações posteriromente desde que com a concordância do Docente. O template para a Proposta está disponível na página de [Documentação](Documentacao.md) do Projeto
 
 Todos os trabalhos terão que abordar a temática de Sistemas Operativos em conjunto com outros assuntos estudados, nesta ou outras cadeiras.
 
