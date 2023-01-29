@@ -27,13 +27,13 @@ Inclui entrega entraga de relatorio preliminar até à sétima semana.
 
 Configuração dinâmica de webservers, utilizando Containers, para responder a diferentes números de clientes (lançar novos webservers; parar webservers já não necessários; com base em várias situações a analisar). Deve incluir load balancers devidamente monitorizados (através de uma página de web). A visibilidade do funcionamento de toda a solução é elemento fundamental para a avaliação.
 
-## 4. Monitoring Platform (Linux-based) - ex. Nagius.
+## 4. Monitoring Platform (Linux-based) - ex. Nagios.
 
-Parametrização de uma plataforma de monitorização de sistemas, redes e aplicações (ver Nagius). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
+Parametrização de uma plataforma de monitorização de sistemas, redes e aplicações (ver Nagios - https://www.nagios.com/). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
 
 ## 4. SIEM Platform (Linux-based) - ex. Wazuh.
 
-Parametrização de uma plataforma SIEM para obtenção de logs de sistemas e que devolva informações relevantes para a segurança e monitorização dos sistemas, redes e aplicações (ver Wazuh). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
+Parametrização de uma plataforma SIEM para obtenção de logs de sistemas e que devolva informações relevantes para a segurança e monitorização dos sistemas, redes e aplicações (ver Wazuh - https://wazuh.com/). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
 
 ## 5. Linux Operating System Utilities (ls, mkdir, cat, etc)
 
