@@ -54,8 +54,8 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 | 11 | 24 abr | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5; **Apresentação do trabalho Routing-II** |
 | 12 | 01 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Mirai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***; **Entrega Trabalho Captura de pacotes com Wireshark/tcpdump** | 
 | 13 | 08 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível); **Apresentação do Trabalho Captura de pacotes com Wireshark/tcpdump** |
-| 14 | 15 mai | **Teste Escrito** ; **Entrega do trabalho final em Packet Tracer Redes/IOT** |
-| 15 | 22 mai | **Apresentações dos trabalhos práticos Networking/IoT** |
+| 14 | 15 mai | **Teste Escrito** ; **Entrega do Trabalho Final** |
+| 15 | 22 mai | **Apresentações dos Trabalhos Práticos** |
 
 ### Sumários
 Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
@@ -74,13 +74,12 @@ Sendo assim:
 - A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
 
 Nesta UC são instrumentos da avaliação contínua:
-- o Trabalho Teórico (15%) individual que inclui apresentação à turma
-- os Trabalhos Práticos (50%) em grupo que no trabalho final inclui apresentação
-- o Teste Escrito Individual Final (35%). 
+- o Trabalho Prático (60%) em grupo que no trabalho final inclui apresentação
+- o Teste Escrito Individual Final (40%). 
 
 **Notas Muito Importantes:** 
 
-**I** Não são admitidos à realização da prova escrita de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
+**I** Não são admitidos à realização da prova escrita de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o o Trabalho Prático (40%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
 
 **II** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final. Data indicativa para o fazerem é até **26 de abril**
 
@@ -92,22 +91,12 @@ Nesta UC são instrumentos da avaliação contínua:
 
 ### 2. Elementos da Avaliação Continua 
 
-#### 1. Trabalho Teórico (15%)
-O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
-Consulte o [Enunciado](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
-
-Importante escolher até **10 de fevereiro**.
-
-Depois de distribuídos os temas (até 12 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=467007833&single=true).
-
-As apresentações começam na semana de 20 de fevereiro.
-
-#### 2. Trabalhos Práticos (50%)
-Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/Redes-EI-2022-2023/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não são aceites).
+#### 1. Trabalhos Práticos (60%)
+Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasOperativos-2022-2023/blob/main/TrabsP/README.md) da unidade curricular. Este trabalho é em grupo (aconselhado 3 alunos).
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-#### 3. Teste Escrito (35%)
+#### 3. Teste Escrito (40%)
 
 Teste Escrito unico a realizar na data marcada na calendarização (penultima semana de aulas).
 
@@ -122,35 +111,30 @@ Os alunos podem acompanhar a percentagem de aulas a que assistem através da dis
 - Presenças da [T02](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=933545162&single=true)
 
 ## Método Pedagógico
-Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
-- Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
-- Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
+Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas). Será também dado apoio aos projetos na maior parte das aulas.
 
 ## Discord
 Deverá ser util juntarem-se ao Discord da cadeira: https://discord.gg/WTbk3rv5 (invite criado em 28.01.2023).
 
-Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
+Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo, 4 alunos não será admitido em nenhuma situação) e deve ser preenchida a tarefa respetiva no Canvas até dia 10 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
+Os trabalhos práticos são em grupo e deve ser preenchida a tarefa respetiva no Canvas até dia 10 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
 
 A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=592821258&single=true) 
 
 ## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
-- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
-- até 12 de fevereiro - Publicação [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=467007833&single=true) da distribuição dos temas e datas de apresentação
 - até 10 de fevereiro - Constituição dos grupos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23225)
-- a partir de 20 de fevereiro iniciam-se as apresentações dos trabalhos teóricos 
-- até 31 de março - Trabalho de Routing I - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23226)
-- até 21 de abril - Trabalho de Routing II - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23227)
-- até 5 de maio - Trabalho Captura de pacotes com Wireshark/tcpdump - Ponderação: 7,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23228)
-- até 19 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 27,5% [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23229)
-- semana de 22 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
+- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
+- semana de 13 de fevereiro - Apresentação à turma das propostas dos trabalhos práticos.
+- até à semana de 13 de março para apresentação de segunda proposta (corrigida) ou de relatórios intermédios, nos trabalhos onde tal é solicitado.
+- até 19 de maio - Entrega do trabalho prático
+- semana de 22 e 26 de maio - Apresentações dos trabalhos práticos
 
 ## Bibliografia
 - Tanenbaum, Andrew S., Modern Operating Systems (4ª Edição) Prentice-Hall
 - Alves Marques, Carlos Ribeiro, Rodrigo Rodrigues, Paulo Ferreira Luís Veiga Fundamentos de Sistemas Operativos (2ª Edição) FCA 
 
 ## Log
-- 2023.01.27: Disponibilização do Repositório.
+- 2023.01.29: Disponibilização do Repositório.
