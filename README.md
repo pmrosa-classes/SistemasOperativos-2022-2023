@@ -37,8 +37,8 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 | Aula | Semana | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 30 jan | Apresentação da Unidade Curricular (coonteudos e avaliação); Objetivos de Sistemas Operativos / Evolução histórica  |
-| 02 | 06 fev | Sistemas operativos como fornecedores de serviços. Virtualização e Cloud  |
-| 03 | 13 fev | Virtualização e Cloud. ***Apresentação das Propostas de Trabalhos*** |
+| 02 | 06 fev | Sistemas operativos como fornecedores de serviços. Virtualização e Cloud; ***Entrega das Propostas dos Trabalhos de Grupo***  |
+| 03 | 13 fev | Virtualização e Cloud. ***Apresentação das Propostas dos Trabalhos de Grupo*** |
 | 04 | 20 fev | Os modelos de computação baseados em Processos e baseados em Processos Ligeiros (Threads) |
 | 05 | 27 fev | Os modelos de computação baseados em Processos e baseados em Processos Ligeiros (Threads); ***Suporte aos Trabalhos de Grupo*** |
 | 06 | 06 mar | Programação concorrente |
@@ -122,12 +122,13 @@ A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/
 
 ## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
-- até 10 de fevereiro - Constituição dos grupos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23225)
-- até 10 de fevereiro - Escolha dos temas para os trabalhos teóricos [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
-- semana de 13 de fevereiro - Apresentação à turma das propostas dos trabalhos práticos.
+- até 10 de fevereiro - Constituição dos grupos neste [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23225)
+- até 10 de fevereiro - Entrega da Proposta dos Trabalhos Práticos nesta [Tarefa no Canvas](https://mycampus.pt/courses/13292/assignments/23224)
+- semana de 13 de fevereiro - Apresentação à turma das propostas dos Trabalhos Práticos.
 - até à semana de 13 de março para apresentação de segunda proposta (corrigida) ou de relatórios intermédios, nos trabalhos onde tal é solicitado.
-- até 19 de maio - Entrega do trabalho prático
-- semana de 22 e 26 de maio - Apresentações dos trabalhos práticos
+- até 19 de maio - Entrega do trabalho prático nesta [Tarefa no Canvas]
+- Semana de 14 de maio - Teste Escrito 
+- semana de 22 e 26 de maio - Apresentações dos Trabalhos Práticos
 
 ## Bibliografia
 - Tanenbaum, Andrew S., Modern Operating Systems (4ª Edição) Prentice-Hall
