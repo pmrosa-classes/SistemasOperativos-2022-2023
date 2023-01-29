@@ -103,9 +103,7 @@ Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pe
 
 ## Presenças
 
-Os alunos podem acompanhar a percentagem de aulas a que assistem através da disponibilização pública, em Google Sheets, referente à sua turmas:
-- Presenças da [T01](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=1412701734&single=true)
-- Presenças da [T02](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=933545162&single=true)
+Os alunos podem acompanhar a percentagem de aulas a que assistem através da disponibilização pública, em Google Sheets, neste [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5IkbX7hD-sH7FNtrroaFW5ESvG-NB5-Ll5ZGwL8q8_VWIVHDH9uhlEcvbG5ygSneEJVHSCCTJaE_X/pubhtml?gid=1412701734&single=true) 
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas). Será também dado apoio aos projetos na maior parte das aulas.
@@ -118,7 +116,7 @@ Para terem acesso aos canais do Discord devem alterar o vosso *nick* para Primei
 ## Grupos
 Os trabalhos práticos são em grupo e deve ser preenchida a tarefa respetiva no Canvas até dia 10 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738.
 
-A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=592821258&single=true) 
+A contituição dos grupos será disponibilizada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5IkbX7hD-sH7FNtrroaFW5ESvG-NB5-Ll5ZGwL8q8_VWIVHDH9uhlEcvbG5ygSneEJVHSCCTJaE_X/pubhtml?gid=592821258&single=true) 
 
 ## Resumo do Calendário da UC e Tarefas
 *(em atualização)*
