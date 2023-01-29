@@ -43,3 +43,8 @@ Desenvolvimento de vários utilitários (estilo GNU - https://www.gnu.org/softwa
 
 Os alunos podem propor outros temas, inclusivamente se de acordo com um PBL a efetuar no semestre, desde que se justifique a integração da unidade curricular. Só será avaliada essa compoenente nesta cadeira. A maior liberdade dada aos alunos através de um tema a propôr também dá mais responsabilidade para com as decisões que vão tomando (preferencialmente de acordo com o Docente sendo que para essa interação poderã utilizar as aulas de apoio).
 
+# Tarefas no Canvas (obrigatório!)
+
+- [Constituição dos grupos](https://mycampus.pt/courses/13259/assignments/23347)
+- [Entrega da Proposta dos Trabalhos Práticos](https://mycampus.pt/courses/13259/assignments/23348)
+- [Entrega do Trabalho Prático](https://mycampus.pt/courses/13259/assignments/23349)
