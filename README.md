@@ -31,7 +31,7 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 *Slides com conteudos disponiveis no Canvas*
 
 ### Aulas Práticas:
-- 
+- Suporte aos Trabalhos de Grupo
 
 ### Planeamento PREVISTO (pode sofrer ALTERAÇÕES!!!)
 | Aula | Semana | Aula |
