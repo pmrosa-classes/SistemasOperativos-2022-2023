@@ -109,7 +109,7 @@ Os alunos podem acompanhar a percentagem de aulas a que assistem através da dis
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas). Será também dado apoio aos projetos na maior parte das aulas.
 
 ## Discord
-Deverá ser util juntarem-se ao Discord da cadeira: https://discord.gg/WTbk3rv5 (invite criado em 28.01.2023).
+Deverá ser util juntarem-se ao Discord da cadeira: https://discord.gg/X4thfy6e (invite criado em 30.01.2023).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome" para serem atribuídos os roles adequados.
 
