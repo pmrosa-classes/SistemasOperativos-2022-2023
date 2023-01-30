@@ -71,7 +71,7 @@ Sendo assim:
 - A realização do teste escrito será realizado durante as aulas na data marcada na calendarização da UC
 
 Nesta UC são instrumentos da avaliação contínua:
-- o Trabalho Prático (60%) em grupo que no trabalho final inclui apresentação
+- o Trabalho Prático (60%) realizado em grupo
 - o Teste Escrito Individual Final (40%). 
 
 **Notas Muito Importantes:** 
