@@ -76,7 +76,7 @@ Nesta UC são instrumentos da avaliação contínua:
 
 **Notas Muito Importantes:** 
 
-**I.** Não são admitidos à realização da prova escrita de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o o Trabalho Prático (40%) em grupo. Poderá, no entanto, não realizar alguns trabalhos desde que a média seja de no minimo 8 valores (sem arredondamentos). 
+**I.** Não são admitidos à realização da prova escrita de avaliação continua os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o o Trabalho Prático (60%) em grupo. 
 
 **II.** Os alunos que iniciem com Avaliação Continua têm até 30 dias antes da última aula para passarem para Avaliação Final. Data indicativa para o fazerem é até **26 de abril**
 
