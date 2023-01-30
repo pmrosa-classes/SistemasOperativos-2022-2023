@@ -31,15 +31,15 @@ Configuração dinâmica de webservers, utilizando Containers, para responder a 
 
 Parametrização de uma plataforma de monitorização de sistemas, redes e aplicações (ver Nagios - https://www.nagios.com/). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
 
-## 4. SIEM Platform (Linux-based) - ex. Wazuh.
+## 5. SIEM Platform (Linux-based) - ex. Wazuh.
 
 Parametrização de uma plataforma SIEM para obtenção de logs de sistemas e que devolva informações relevantes para a segurança e monitorização dos sistemas, redes e aplicações (ver Wazuh - https://wazuh.com/). Esta parametrização deve incluir obrigatoriamente um conjunto de parametros a analisar, para isso deverão ter equipamentos que possam usar para essa plataforma.
 
-## 5. Linux Operating System Utilities (ls, mkdir, cat, etc)
+## 6. Linux Operating System Utilities (ls, mkdir, cat, etc)
 
 Desenvolvimento de vários utilitários (estilo GNU - https://www.gnu.org/software/coreutils/) para sistema operativo Linux. Identificar utilitários na proposta inicial. Desenvolvimento em Linguagem C.
 
-## 6. outro trabalho a propor
+## 7. outro trabalho a propor
 
 Os alunos podem propor outros temas, inclusivamente se de acordo com um PBL a efetuar no semestre, desde que se justifique a integração da unidade curricular. Só será avaliada essa compoenente nesta cadeira. A maior liberdade dada aos alunos através de um tema a propôr também dá mais responsabilidade para com as decisões que vão tomando (preferencialmente de acordo com o Docente sendo que para essa interação poderã utilizar as aulas de apoio).
 
