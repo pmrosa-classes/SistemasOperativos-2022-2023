@@ -50,9 +50,9 @@ TO DO ***Esforço requerido aos alunos: 6 ECTS, com 42 horas em aula e 126 horas
 | 10 | 17 abr | Input / Output; ***Suporte aos Trabalhos de Grupo***  |
 | 11 | 24 abr | Núcleos e Micro-Núcleos; ***Suporte aos Trabalhos de Grupo*** |
 | 12 | 01 mai | ***Aula de Suporte aos Trabalhos de Grupo*** | 
-| 13 | 08 mai | ***Aula de Suporte aos Trabalhos de Grupo*** |
-| 14 | 15 mai | **Teste Escrito**; **Entrega do Trabalho Final** |
-| 15 | 22 mai | **Apresentações dos Trabalhos Práticos** |
+| 13 | 08 mai | **Teste Escrito**; **Entrega do Trabalho Final**  |
+| 14 | 15 mai | **Apresentações dos Trabalhos Práticos**|
+| 15 | 22 mai | *já não há aulas de SO* |
 
 ### Sumários
 Os sumários das aulas podem ser consultados *aqui* (brevemente disponível)
